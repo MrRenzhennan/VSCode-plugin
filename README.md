@@ -3,6 +3,12 @@ VSCode 推荐插件 及相关配置
 
 [https://marketplace.visualstudio.com/vscode](https://marketplace.visualstudio.com/vscode)
 
+## 修改插件默认安装位置
+vscode插件默认的安装位置是`C:\Users\用户名\.vscode\extensions`  
+1.已安装 Visual Studio Code, 并且已将其添加到了环境变量 path 中  
+2.打开cmd，输入code --help, 显示帮助信息  
+3.`code --extensions-dir <dir>`
+
 ## Chinese (Simplified) Language Pack for Visual Studio Code
 
 适用于 VS Code 的中文（简体）语言包  
