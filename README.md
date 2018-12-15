@@ -1,5 +1,7 @@
 # VSCode-plugin
-VSCode 推荐插件 及相关配置
+VSCode 推荐插件 及相关配置  
+
+[https://marketplace.visualstudio.com/vscode](https://marketplace.visualstudio.com/vscode)
 
 ## Chinese (Simplified) Language Pack for Visual Studio Code
 
@@ -29,8 +31,15 @@ VSCode 推荐插件 及相关配置
 
 自动添加HTML / XML关闭标签  
 
->插件地址 (https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)[https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag]
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
+
+## Auto Rename Tag
+![Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag/raw/master/images/usage.gif)  
+
+重命名一个HTML / XML标记时，会自动重命名配对的HTML / XML标记  
+
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
 
 ## Prettier
@@ -39,6 +48,13 @@ VSCode 推荐插件 及相关配置
 Prettier 是目前 Web 开发中最受欢迎的代码格式化程序。安装了这个插件，它就能够自动应用 Prettier，并将整个 JS 和 CSS 文档快速格式化为统一的代码样式  
 
 >插件地址 [https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+## Bracket Pair Colorizer
+![Bracket Pair Colorizer](https://github.com/CoenraadS/BracketPair/raw/master/images/example.png)  
+
+ 此扩展允许使用颜色标识匹配的括号。 用户可以定义要匹配的字符以及要使用的颜色。  
+ 
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 
 ## Minify
@@ -84,7 +100,7 @@ Prettier 是目前 Web 开发中最受欢迎的代码格式化程序。安装了
 
 
 ## CSS Peek
-!(CSS Peek)[http://p3.pstatp.com/large/2ed000033cd2344d5528]  
+![CSS Peek](http://p3.pstatp.com/large/2ed000033cd2344d5528)  
 
 使用此插件，你可以追踪至样式表中 CSS 类和 ids 定义的地方。当你在 HTML 文件中右键单击选择器时，选择“ Go to Definition 和 Peek definition ”选项，它便会给你发送样式设置的 CSS 代码  
 
@@ -92,19 +108,50 @@ Prettier 是目前 Web 开发中最受欢迎的代码格式化程序。安装了
 
 
 ## Faker
-!(Faker)[http://p3.pstatp.com/large/2ed000033cd1f33e1691]  
+![Faker](http://p3.pstatp.com/large/2ed000033cd1f33e1691)  
 
 使用流行的 JavaScript 库 – Faker，能够帮你快速的插入用例数据。Faker 可以随机生成姓名、地址、图像、电话号码，或者经典的乱数假文段落，并且每个类别还包含了各种子类别，你可以根据自身的需求来使用这些数据。  
 
->插件地址[https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)
 
 
 ## Quokka
-!(Quokka)[http://p9.pstatp.com/large/2ed200007a393ef62428]  
+![Quokka](http://p9.pstatp.com/large/2ed200007a393ef62428)  
 
 Quokka 是一个调试工具插件，能够根据你正在编写的代码提供实时反馈。它易于配置，并能够预览变量的函数和计算值结果。另外，在使用 JSX 或 TypeScript 项目中，它能够开箱即用。  
 
->插件地址[https://quokkajs.com/](https://quokkajs.com/)
+>插件地址 [https://quokkajs.com/](https://quokkajs.com/)
 
 
->插件地址[]()
+## filesize
+![filesize](https://segmentfault.com/img/bVJ9Yf?w=1400&h=800)  
+
+在底部状态栏显示当前文件大小，点击后还可以看到详细创建、修改时间  
+
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize)
+
+
+## HTMLHint
+![HTMLHint](https://raw.githubusercontent.com/Microsoft/vscode-htmlhint/master/htmlhint/images/hero.png)  
+
+HTML 代码格式检测  
+
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
+
+
+## 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
