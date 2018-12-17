@@ -1,4 +1,5 @@
-# 目录
+### 插件目录
+- [Chinese (Simplified) Language Pack for Visual Studio Code](#Chinese (Simplified) Language Pack for Visual Studio Code)
 - [Open-In-Browser](#Open-In-Browser)
 # VSCode-plugin
 VSCode 推荐插件 及相关配置  
