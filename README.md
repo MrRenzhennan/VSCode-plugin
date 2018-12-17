@@ -1,6 +1,5 @@
----
-[TOC]
----
+# 目录
+- [Open-In-Browser](Open-In-Browser)
 # VSCode-plugin
 VSCode 推荐插件 及相关配置  
 
