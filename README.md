@@ -1,6 +1,7 @@
 ### 插件目录
 - [Chinese (Simplified) Language Pack for Visual Studio Code](#chinese-simplified-language-pack-for-visual-studio-code)
 - [Open-In-Browser](#Open-In-Browser)
+- [HTML Boilerplate](#html-boilerplate)
 # VSCode-plugin
 VSCode 推荐插件 及相关配置  
 
