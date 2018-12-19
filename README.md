@@ -2,6 +2,20 @@
 - [Chinese (Simplified) Language Pack for Visual Studio Code](#chinese-simplified-language-pack-for-visual-studio-code)
 - [Open-In-Browser](#Open-In-Browser)
 - [HTML Boilerplate](#html-boilerplate)
+- [Auto Close Tag](#auto-close-tag)
+- [Auto Rename Tag](#auto-rename-tag)
+- [Prettier](#prettier)
+- [Bracket Pair Colorizer](#bracket-pair-colorizer)
+- [Minify](#minify)
+- [Change Case](#change-case)
+- [Regex Previewer](#regex-previewer)
+- [TODO Highlight](#todo-highlight)
+- [SVG Viewer](#svg-viewer)
+- [CSS Peek](#css-peek)
+- [Faker](#faker)
+- [Quokka](#quokka)
+- [filesize](#filesize)
+- [HTMLHint](#htmlhint)
 # VSCode-plugin
 VSCode 推荐插件 及相关配置  
 
