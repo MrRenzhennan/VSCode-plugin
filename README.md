@@ -200,7 +200,7 @@ require 时的包提示（最新版的vscode已经集成此功能）
 ## vscode-fileheader
 ![vscode-fileheader](https://github.com/zhaopengme/vscode-fileheader/raw/master/fileheader.gif)  
 
-`ctrl+alt+i` 您可以在头部插入注释。  
+`ctrl+alt+i` 生成顶部模板注释。  
 
 >插件地址 [https://marketplace.visualstudio.com/items?itemName=mikey.vscode-fileheader](https://marketplace.visualstudio.com/items?itemName=mikey.vscode-fileheader)
 
