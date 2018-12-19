@@ -5,6 +5,7 @@
 - [Auto Close Tag](#auto-close-tag)
 - [Auto Rename Tag](#auto-rename-tag)
 - [Prettier](#prettier)
+- [Path Intellisense](#path-intellisense)
 - [Bracket Pair Colorizer](#bracket-pair-colorizer)
 - [Minify](#minify)
 - [Change Case](#change-case)
@@ -16,6 +17,7 @@
 - [Quokka](#quokka)
 - [filesize](#filesize)
 - [HTMLHint](#htmlhint)
+- [vscode-icon](#vscode-icon)
 # VSCode-plugin
 VSCode 推荐插件 及相关配置  
 
@@ -72,6 +74,14 @@ vscode插件默认的安装位置是`C:\Users\用户名\.vscode\extensions`
 Prettier 是目前 Web 开发中最受欢迎的代码格式化程序。安装了这个插件，它就能够自动应用 Prettier，并将整个 JS 和 CSS 文档快速格式化为统一的代码样式  
 
 >插件地址 [https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+
+## Path Intellisense
+![Path Intellisense](http://i.giphy.com/iaHeUiDeTUZuo.gif)  
+
+自动完成文件名的Visual Studio代码插件  
+
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
 ## Bracket Pair Colorizer
 ![Bracket Pair Colorizer](https://github.com/CoenraadS/BracketPair/raw/master/images/example.png)  
@@ -163,11 +173,36 @@ HTML 代码格式检测
 >插件地址 [https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
 
 
-## 
+## vscode-icon
+![vscode-icon](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/screenshot.gif)  
+
+让 vscode 资源树目录加上图标，必备良品！  
+
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)  
 
 
+## Npm Intellisense
+![Npm Intellisense](https://github.com/ChristianKohler/NpmIntellisense/raw/master/images/auto_complete.gif)  
+![Npm Intellisense](https://github.com/ChristianKohler/NpmIntellisense/raw/master/images/require_withname.gif)  
+
+require 时的包提示（最新版的vscode已经集成此功能）  
+
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)  
 
 
+## Document this
+![Document this](https://github.com/joelday/vscode-docthis/raw/master/images/demo.gif)  
+
+`Ctrl+Alt+D` and again `Ctrl+Alt+D` 为代码插入 js 的注释模板  
+
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=joelday.docthis](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
+
+## vscode-fileheader
+![vscode-fileheader](https://github.com/zhaopengme/vscode-fileheader/raw/master/fileheader.gif)  
+
+`ctrl+alt+i` 您可以在头部插入注释。  
+
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=mikey.vscode-fileheader](https://marketplace.visualstudio.com/items?itemName=mikey.vscode-fileheader)
 
 
 
