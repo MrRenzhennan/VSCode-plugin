@@ -24,7 +24,8 @@
 - [vscode-fileheader](#vscode-fileheader)
 #### Vue插件
 - [Vetur](#vetur)
-
+#### React插件
+- [React/Redux/react-router Snippets]()
 # VSCode-plugin
 VSCode 推荐插件 及相关配置  
 
@@ -220,8 +221,12 @@ Vue多功能集成插件，包括：语法高亮，智能提示，emmet，错误
 >插件地址 [https://marketplace.visualstudio.com/items?itemName=octref.vetur#overview](https://marketplace.visualstudio.com/items?itemName=octref.vetur#overview)
 
 
+## React/Redux/react-router Snippets
+![React/Redux/react-router Snippets](https://github.com/discountry/vscode-react-redux-react-router-snippets/raw/master/images/screenshot.gif)  
 
+React/Redux/react-router语法智能提示 代码模板  
 
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=discountry.react-redux-react-router-snippets](https://marketplace.visualstudio.com/items?itemName=discountry.react-redux-react-router-snippets)
 
 
 
