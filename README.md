@@ -27,6 +27,7 @@
 - [vscode-fileheader](#vscode-fileheader)
 #### Vue插件
 - [Vetur](#vetur)
+- [自动生成代码块](#自动生成代码块)
 #### React插件
 - [React/Redux/react-router Snippets](#reactreduxreact-router-snippets)
 #### Markdown插件
@@ -252,6 +253,50 @@ require 时的包提示（最新版的vscode已经集成此功能）
 Vue多功能集成插件，包括：语法高亮，智能提示，emmet，错误提示，格式化，自动补全，debugger。vscode官方钦定Vue插件，Vue开发者必备。  
 
 >插件地址 [https://marketplace.visualstudio.com/items?itemName=octref.vetur#overview](https://marketplace.visualstudio.com/items?itemName=octref.vetur#overview)
+
+
+## 自动生成代码块
+在vs code中，使用快捷键Ctrl+Shift+P打开搜索栏–>输入snippet–>选择首选项，如图： 
+![..](https://img-blog.csdn.net/20180603020426978?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2MjU2OTQ0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
+打开了snippet搜索栏–>输入vue–>选择vue.json，如图  
+![..](https://img-blog.csdn.net/2018060302081032?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2MjU2OTQ0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
+输入需要生成的vue组件内容  
+```json
+{
+    "Print to console": {
+        "prefix": "vue",
+        "body": [
+            "<template>",
+            "  <div>\n",
+            "  </div>",
+            "</template>\n",
+            "<script>",
+            "export default {",
+            "  data() {",
+            "    return {\n",
+            "    }",
+            "  },",
+            "  methods: {\n",
+            "  },",
+            "  components: {\n",
+            "  }",
+            "}",
+            "</script>\n",
+            "<style>\n",
+            "</style>",
+            "$2"
+        ],
+        "description": "创建一个自定义的vue组件代码块"
+    }
+}
+```  
+![..](https://img-blog.csdn.net/20180603022317118?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2MjU2OTQ0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
+准备完毕，现在来试一下，在src/components/中创建Test.vue文件，输入vue，然后按回车键，如图：   
+![..](https://img-blog.csdn.net/2018060302192598?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2MjU2OTQ0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
+接下来就可以看到一段完整的vue组件代码被生成了，如图：   
+![..](https://img-blog.csdn.net/20180603022356367?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2MjU2OTQ0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
+
+可根据自己的需求来定制vue，当然也可以创建其它的代码块。
 
 
 ## React/Redux/react-router Snippets
