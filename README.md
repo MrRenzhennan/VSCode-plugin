@@ -3,6 +3,7 @@
 - [Chinese (Simplified) Language Pack for Visual Studio Code](#chinese-simplified-language-pack-for-visual-studio-code)
 - [Open-In-Browser](#Open-In-Browser)
 - [HTML Boilerplate](#html-boilerplate)
+- [HTML Snippets](#html-snippets)
 - [Auto Close Tag](#auto-close-tag)
 - [Auto Rename Tag](#auto-rename-tag)
 - [Prettier](#prettier)
@@ -58,7 +59,16 @@ vscode插件默认的安装位置是`C:\Users\用户名\.vscode\extensions`
 通过使用 HTML 模版插件，你就摆脱了为 HTML 新文件重新编写头部和正文标签的苦恼。你只需在空文件中输入 html，并按 Tab 键，即可生成干净的文档结构。  
 
 >插件地址 [https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)
-  
+
+
+## HTML Snippets
+![HTML Snippets](https://i.imgur.com/VOhBvHb.gif)
+
+智能提示HTML标签，以及标签含义
+
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
+
+
 ## Auto Close Tag
 ![Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag/raw/master/images/usage.gif)
 ![Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag/raw/master/images/close-tag.gif)
