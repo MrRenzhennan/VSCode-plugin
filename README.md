@@ -6,6 +6,7 @@
 - [HTML Snippets](#html-snippets)
 - [Auto Close Tag](#auto-close-tag)
 - [Auto Rename Tag](#auto-rename-tag)
+- [JavaScript(ES6) code snippets]()
 - [Prettier](#prettier)
 - [Path Intellisense](#path-intellisense)
 - [Bracket Pair Colorizer](#bracket-pair-colorizer)
@@ -88,6 +89,15 @@ vscode插件默认的安装位置是`C:\Users\用户名\.vscode\extensions`
 重命名一个HTML / XML标记时，会自动重命名配对的HTML / XML标记  
 
 >插件地址 [https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+
+## JavaScript(ES6) code snippets
+![..](https://images2018.cnblogs.com/blog/1309897/201803/1309897-20180318232417436-37242668.png)  
+
+ES6语法智能提示，以及快速输入，不仅仅支持.js，还支持.ts，.jsx，.tsx，.html，.vue，省去了配置其支持各种包含js代码文件的时间
+  
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+
 
 
 ## Prettier
