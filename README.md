@@ -6,7 +6,7 @@
 - [HTML Snippets](#html-snippets)
 - [Auto Close Tag](#auto-close-tag)
 - [Auto Rename Tag](#auto-rename-tag)
-- [JavaScript(ES6) code snippets]()
+- [JavaScript(ES6) code snippets](#javascriptes6-code-snippets)
 - [Prettier](#prettier)
 - [Path Intellisense](#path-intellisense)
 - [Bracket Pair Colorizer](#bracket-pair-colorizer)
