@@ -23,6 +23,7 @@
 - [Document this](#document-this)
 - [vscode-fileheader](#vscode-fileheader)
 #### Vue插件
+- [Vetur](#vetur)
 
 # VSCode-plugin
 VSCode 推荐插件 及相关配置  
@@ -211,7 +212,12 @@ require 时的包提示（最新版的vscode已经集成此功能）
 >插件地址 [https://marketplace.visualstudio.com/items?itemName=mikey.vscode-fileheader](https://marketplace.visualstudio.com/items?itemName=mikey.vscode-fileheader)
 
 
+## Vetur
+![..](https://images2018.cnblogs.com/blog/1309897/201803/1309897-20180318233925285-1751693960.png)  
 
+Vue多功能集成插件，包括：语法高亮，智能提示，emmet，错误提示，格式化，自动补全，debugger。vscode官方钦定Vue插件，Vue开发者必备。  
+
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=octref.vetur#overview](https://marketplace.visualstudio.com/items?itemName=octref.vetur#overview)
 
 
 
