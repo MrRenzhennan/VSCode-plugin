@@ -19,6 +19,9 @@
 - [filesize](#filesize)
 - [HTMLHint](#htmlhint)
 - [vscode-icon](#vscode-icon)
+- [Npm Intellisense](#npm-intellisense)
+- [Document this](#document-this)
+- [vscode-fileheader](#vscode-fileheader)
 #### Vue插件
 
 # VSCode-plugin
