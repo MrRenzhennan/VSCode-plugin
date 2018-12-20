@@ -20,6 +20,7 @@
 - [filesize](#filesize)
 - [HTMLHint](#htmlhint)
 - [vscode-icon](#vscode-icon)
+- [Material Icon Theme](#material-icon-theme)
 - [Npm Intellisense](#npm-intellisense)
 - [Document this](#document-this)
 - [vscode-fileheader](#vscode-fileheader)
@@ -200,6 +201,15 @@ HTML 代码格式检测
 让 vscode 资源树目录加上图标，必备良品！  
 
 >插件地址 [https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)  
+
+
+## Material Icon Theme
+![..](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
+![..](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/folderIcons.png)  
+
+个人认为最好的vscode图标主题，支持更换不同色系的图标，值得点出的是，该插件更新极其频繁，基本和vscode更新频率保持一致  
+
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)  
 
 
 ## Npm Intellisense
