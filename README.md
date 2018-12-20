@@ -27,6 +27,9 @@
 - [Vetur](#vetur)
 #### React插件
 - [React/Redux/react-router Snippets](#reactreduxreact-router-snippets)
+#### Markdown插件
+- [Markdown Preview Enhanced](#markdown-preview-enhanced)
+- [markdownlint](#markdownlint)
 # VSCode-plugin
 VSCode 推荐插件 及相关配置  
 
@@ -239,5 +242,18 @@ React/Redux/react-router语法智能提示 代码模板
 >插件地址 [https://marketplace.visualstudio.com/items?itemName=discountry.react-redux-react-router-snippets](https://marketplace.visualstudio.com/items?itemName=discountry.react-redux-react-router-snippets)
 
 
+## Markdown Preview Enhanced
+![Markdown Preview Enhanced](https://user-images.githubusercontent.com/1908863/28495106-30b3b15e-6f09-11e7-8eb6-ca4ca001ab15.png)  
 
+实时预览markdown，markdown使用者必备  
+
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+
+
+## markdownlint
+![markdownlint](https://images2018.cnblogs.com/blog/1309897/201803/1309897-20180318232941526-1059482055.png)  
+
+markdown语法纠错  
+
+>插件地址 [https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
